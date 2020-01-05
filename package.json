@@ -1,0 +1,19 @@
+{
+  "name": "hny_bot",
+  "version": "1.0.0",
+  "description": "Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "seks node index"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "MagicFun1241",
+  "license": "MIT",
+  "dependencies": {
+    "easyvk": "^2.5.11",
+    "moment": "^2.24.0"
+  }
+}
